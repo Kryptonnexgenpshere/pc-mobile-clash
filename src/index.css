@@ -24,7 +24,7 @@ All colors MUST be HSL.
     --primary-glow: 217 100% 70%;
 
     /* Gaming Secondary - Cyber Purple */
-    --secondary: 280 100% 70%;
+    --secondary: 0 0% 100%;
     --secondary-foreground: 0 0% 100%;
 
     --muted: 215 15% 92%;
@@ -35,8 +35,8 @@ All colors MUST be HSL.
     --accent-foreground: 225 15% 15%;
 
     /* Gaming Gold - Prize Colors */
-    --gold: 45 100% 60%;
-    --gold-foreground: 225 15% 15%;
+    --gold: 0 0% 100%;
+    --gold-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
