@@ -15,7 +15,7 @@ All colors MUST be HSL.
     --card: 0 0% 100%;
     --card-foreground: 225 15% 15%;
 
-    --popover: 0 0% 100%;
+    --popover: 0 0% 0%;
     --popover-foreground: 225 15% 15%;
 
     /* Gaming Primary - Electric Blue */
@@ -24,8 +24,8 @@ All colors MUST be HSL.
     --primary-glow: 217 100% 70%;
 
     /* Gaming Secondary - Cyber Purple */
-    --secondary: 0 0% 100%;
-    --secondary-foreground: 0 0% 100%;
+    --secondary: 0 0% 0%;
+    --secondary-foreground: 0 0% 0%;
 
     --muted: 215 15% 92%;
     --muted-foreground: 225 15% 45%;
@@ -35,8 +35,8 @@ All colors MUST be HSL.
     --accent-foreground: 225 15% 15%;
 
     /* Gaming Gold - Prize Colors */
-    --gold: 0 0% 100%;
-    --gold-foreground: 0 0% 100%;
+    --gold: 0 0% 0%;
+    --gold-foreground: 0 0% 0%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
